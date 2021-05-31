@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font: 700 35px "Montserrat";
+  background-color: #a4aee2;
+}
+
+.button {
+  margin-top: 200px;
+  width: 200px;
+  height: 200px;
+  background-color: #4c44bc;
+  color: white;
+  padding: 30px;
+  border: solid #020000 10px;
+  border-radius: 50%;
+}
+.button:not(:last-child) {
+  margin-right: 50px;
+}
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
