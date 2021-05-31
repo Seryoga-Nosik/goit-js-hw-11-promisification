@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font: 700 35px 'Montserrat';
+  background-color: rgb(164, 174, 226);
+}
+
+.button {
+  margin-top: 200px;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(76, 68, 188);
+  color: white;
+  padding: 30px;
+  border: solid rgb(2, 0, 0) 10px;
+  border-radius: 50%;
+  &:not(:last-child) {
+    margin-right: 50px;
+  }
+}
